@@ -1,0 +1,9 @@
+include 'mpp-proiect'
+include 'Model'
+include 'Persistence'
+include 'Client'
+include 'Server'
+include 'Services'
+include 'Networking'
+include 'rest-services'
+

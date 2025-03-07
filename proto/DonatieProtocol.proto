@@ -1,0 +1,84 @@
+syntax='proto3';
+package proto;
+
+option java_package = "ro.mpp2024.protobuffprotocol";
+option java_outer_classname = "DonatieProto";
+
+
+message Voluntar{
+  string nume = 1;
+  string prenume = 2;
+  string username = 3;
+  string password = 4;
+}
+
+
+message Donator{
+  int32 id = 1;
+  string nume = 2;
+  string prenume = 3;
+  string adresa = 4;
+  string numar = 5;
+  string cnp = 6;
+}
+
+message CazCaritabil{
+  string nume = 1;
+  string asociatie = 2;
+}
+
+message numeCaz{
+  string nume = 1;
+}
+
+
+message Donatie{
+  CazCaritabil cazCaritabil = 1;
+  Donator donator = 2;
+  float suma = 3;
+}
+
+message DonatieDTO{
+
+}
+
+message Request{
+  enum RequestType{
+    LOGIN = 0;
+    LOGOUT = 1;
+    GET_DONATORI = 2;
+    GET_ALL_CAZURI_CARITABILE = 3;
+    GET_DONATION_SUM = 4;
+    ADD_DONATION = 5;
+    UPDATE = 6;
+    ADD_DONATOR = 7;
+
+  }
+  RequestType type = 1;
+  oneof request{
+    Voluntar volunatar = 2;
+    Donator donator = 3;
+    CazCaritabil cazCaritabil = 4;
+    Donatie donatie = 5;
+    string numecaz = 6;
+  }
+}
+  message Response{
+    enum ResponseType{
+      OK = 0;
+      ERROR = 1;
+      GET_DONATORI = 2;
+      GET_ALL_CAZURI_CARITABILE = 3;
+      GET_DONATION_SUM = 4;
+      ADD_DONATION = 5;
+      UPDATE = 6;
+      ADD_DONATOR = 7;
+    }
+      ResponseType type = 1;
+      Voluntar volunatar = 2;
+      repeated Donator donatori = 3;
+      repeated CazCaritabil cazuri_caritabile = 4;
+      float suma = 5;
+      string message = 6;
+  }
+

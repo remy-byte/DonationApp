@@ -1,0 +1,628 @@
+16 Mar 2024 18:59:11,731 INFO  ro.mpp2024.repository.RepositoryDBDonator 24 <init> - Initializing RepositoryDBDonator with properties: {jdbc.url=jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor} 
+16 Mar 2024 18:59:11,735 TRACE ro.mpp2024.repository.RepositoryDBDonator 55 findAll - Enter
+16 Mar 2024 18:59:11,735 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+16 Mar 2024 18:59:11,735 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+16 Mar 2024 18:59:11,735 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+16 Mar 2024 18:59:11,736 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+16 Mar 2024 18:59:11,736 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+16 Mar 2024 18:59:11,918 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1984b1f)
+16 Mar 2024 19:00:49,520 INFO  ro.mpp2024.repository.RepositoryDBDonator 24 <init> - Initializing RepositoryDBDonator with properties: {jdbc.url=jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor} 
+16 Mar 2024 19:00:49,523 TRACE ro.mpp2024.repository.RepositoryDBDonator 55 findAll - Enter
+16 Mar 2024 19:00:49,523 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+16 Mar 2024 19:00:49,523 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+16 Mar 2024 19:00:49,523 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+16 Mar 2024 19:00:49,524 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+16 Mar 2024 19:00:49,524 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+16 Mar 2024 19:00:49,634 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1984b1f)
+17 Mar 2024 17:29:28,453 INFO  ro.mpp2024.repository.RepositoryDBDonator 24 <init> - Initializing RepositoryDBDonator with properties: {jdbc.url=jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor} 
+17 Mar 2024 17:29:28,461 TRACE ro.mpp2024.repository.RepositoryDBDonator 55 findAll - Enter
+17 Mar 2024 17:29:28,461 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+17 Mar 2024 17:29:28,461 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+17 Mar 2024 17:29:28,461 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+17 Mar 2024 17:29:28,462 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+17 Mar 2024 17:29:28,462 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+17 Mar 2024 17:29:28,621 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1984b1f)
+17 Mar 2024 18:41:56,679 INFO  ro.mpp2024.repository.RepositoryDBDonator 24 <init> - Initializing RepositoryDBDonator with properties: {jdbc.url=jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor} 
+17 Mar 2024 18:42:25,666 INFO  ro.mpp2024.repository.RepositoryDBDonator 24 <init> - Initializing RepositoryDBDonator with properties: {jdbc.url=jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor} 
+17 Mar 2024 18:42:25,669 TRACE ro.mpp2024.repository.RepositoryDBDonator 55 findAll - Enter
+17 Mar 2024 18:42:25,669 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+17 Mar 2024 18:42:25,669 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+17 Mar 2024 18:42:25,669 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+17 Mar 2024 18:42:25,670 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+17 Mar 2024 18:42:25,670 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+17 Mar 2024 18:42:25,827 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1b75c2e3)
+17 Mar 2024 19:17:42,624 INFO  ro.mpp2024.repository.RepositoryDBDonator 24 <init> - Initializing RepositoryDBDonator with properties: {jdbc.url=jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor} 
+17 Mar 2024 19:17:42,635 TRACE ro.mpp2024.repository.RepositoryDBDonator 55 findAll - Enter
+17 Mar 2024 19:17:42,636 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+17 Mar 2024 19:17:42,636 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+17 Mar 2024 19:17:42,636 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+17 Mar 2024 19:17:42,638 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+17 Mar 2024 19:17:42,638 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+17 Mar 2024 19:17:42,803 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7d446ed1)
+18 Mar 2024 18:17:23,051 INFO  ro.mpp2024.repository.RepositoryDBDonator 24 <init> - Initializing RepositoryDBDonator with properties: {jdbc.url=jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor} 
+18 Mar 2024 18:17:23,057 TRACE ro.mpp2024.repository.RepositoryDBDonator 55 findAll - Enter
+18 Mar 2024 18:17:23,058 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:17:23,058 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:17:23,058 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:17:23,058 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:17:23,059 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:17:23,185 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7d446ed1)
+18 Mar 2024 18:17:23,195 INFO  ro.mpp2024.repository.RepositoryDBDonatie 25 <init> - Initializing RepositoryDBDonatie
+18 Mar 2024 18:17:23,195 TRACE ro.mpp2024.repository.RepositoryDBDonatie 37 findAll - Enter
+18 Mar 2024 18:17:23,196 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:17:23,196 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:17:23,196 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:17:23,196 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:17:23,196 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:17:23,197 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@2796aeae)
+18 Mar 2024 18:18:08,289 INFO  ro.mpp2024.repository.RepositoryDBDonator 24 <init> - Initializing RepositoryDBDonator with properties: {jdbc.url=jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor} 
+18 Mar 2024 18:18:08,292 TRACE ro.mpp2024.repository.RepositoryDBDonator 55 findAll - Enter
+18 Mar 2024 18:18:08,293 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:18:08,293 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:18:08,293 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:18:08,293 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:18:08,293 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:18:08,399 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7d446ed1)
+18 Mar 2024 18:18:08,410 INFO  ro.mpp2024.repository.RepositoryDBDonatie 25 <init> - Initializing RepositoryDBDonatie
+18 Mar 2024 18:18:08,411 TRACE ro.mpp2024.repository.RepositoryDBDonatie 37 findAll - Enter
+18 Mar 2024 18:18:08,411 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:18:08,411 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:18:08,411 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:18:08,411 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:18:08,411 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:18:08,412 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@2796aeae)
+18 Mar 2024 18:18:29,294 INFO  ro.mpp2024.repository.RepositoryDBDonator 24 <init> - Initializing RepositoryDBDonator with properties: {jdbc.url=jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor} 
+18 Mar 2024 18:18:29,298 TRACE ro.mpp2024.repository.RepositoryDBDonator 55 findAll - Enter
+18 Mar 2024 18:18:29,298 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:18:29,298 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:18:29,298 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:18:29,298 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:18:29,298 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:18:29,445 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7d446ed1)
+18 Mar 2024 18:18:29,455 INFO  ro.mpp2024.repository.RepositoryDBDonatie 25 <init> - Initializing RepositoryDBDonatie
+18 Mar 2024 18:18:29,456 TRACE ro.mpp2024.repository.RepositoryDBDonatie 37 findAll - Enter
+18 Mar 2024 18:18:29,456 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:18:29,457 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:18:29,457 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:18:29,457 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:18:29,458 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:18:29,458 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@2796aeae)
+18 Mar 2024 18:19:18,069 INFO  ro.mpp2024.repository.RepositoryDBDonator 24 <init> - Initializing RepositoryDBDonator with properties: {jdbc.url=jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor} 
+18 Mar 2024 18:19:18,077 TRACE ro.mpp2024.repository.RepositoryDBDonator 55 findAll - Enter
+18 Mar 2024 18:19:18,077 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:19:18,078 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:19:18,078 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:19:18,078 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:19:18,079 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:19:18,240 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7d446ed1)
+18 Mar 2024 18:19:18,261 INFO  ro.mpp2024.repository.RepositoryDBDonatie 25 <init> - Initializing RepositoryDBDonatie
+18 Mar 2024 18:19:18,262 TRACE ro.mpp2024.repository.RepositoryDBDonatie 37 findAll - Enter
+18 Mar 2024 18:19:18,263 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:19:18,263 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:19:18,264 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:19:18,264 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:19:18,264 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:19:18,266 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@2796aeae)
+18 Mar 2024 18:19:18,267 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:19:18,267 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@2796aeae)
+18 Mar 2024 18:20:26,572 INFO  ro.mpp2024.repository.RepositoryDBDonator 24 <init> - Initializing RepositoryDBDonator with properties: {jdbc.url=jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor} 
+18 Mar 2024 18:20:26,575 TRACE ro.mpp2024.repository.RepositoryDBDonator 55 findAll - Enter
+18 Mar 2024 18:20:26,575 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:20:26,575 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:20:26,575 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:20:26,576 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:20:26,576 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:20:26,680 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7d446ed1)
+18 Mar 2024 18:20:26,690 INFO  ro.mpp2024.repository.RepositoryDBDonatie 25 <init> - Initializing RepositoryDBDonatie
+18 Mar 2024 18:20:26,690 TRACE ro.mpp2024.repository.RepositoryDBDonatie 37 findAll - Enter
+18 Mar 2024 18:20:26,691 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:20:26,691 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:20:26,691 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:20:26,691 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:20:26,691 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:20:26,693 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@2796aeae)
+18 Mar 2024 18:20:26,694 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:20:26,694 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@2796aeae)
+18 Mar 2024 18:20:26,694 TRACE ro.mpp2024.repository.RepositoryDBDonatie 110 findCazCaritabil - Enter
+18 Mar 2024 18:20:26,695 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:20:26,695 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:20:26,695 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:20:26,695 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:20:26,695 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:20:26,696 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b4711e2)
+18 Mar 2024 18:20:49,312 INFO  ro.mpp2024.repository.RepositoryDBDonator 24 <init> - Initializing RepositoryDBDonator with properties: {jdbc.url=jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor} 
+18 Mar 2024 18:20:49,316 TRACE ro.mpp2024.repository.RepositoryDBDonator 55 findAll - Enter
+18 Mar 2024 18:20:49,317 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:20:49,317 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:20:49,317 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:20:49,317 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:20:49,317 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:20:49,442 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7d446ed1)
+18 Mar 2024 18:20:49,455 INFO  ro.mpp2024.repository.RepositoryDBDonatie 25 <init> - Initializing RepositoryDBDonatie
+18 Mar 2024 18:20:49,455 TRACE ro.mpp2024.repository.RepositoryDBDonatie 37 findAll - Enter
+18 Mar 2024 18:20:49,455 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:20:49,455 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:20:49,456 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:20:49,456 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:20:49,456 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:20:49,457 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@2796aeae)
+18 Mar 2024 18:20:49,457 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:20:49,459 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@2796aeae)
+18 Mar 2024 18:20:49,459 TRACE ro.mpp2024.repository.RepositoryDBDonatie 110 findCazCaritabil - Enter
+18 Mar 2024 18:20:49,459 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:20:49,459 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:20:49,459 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:20:49,460 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:20:49,460 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:20:49,461 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b4711e2)
+18 Mar 2024 18:26:28,721 INFO  ro.mpp2024.repository.RepositoryDBDonator 24 <init> - Initializing RepositoryDBDonator with properties: {jdbc.url=jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor} 
+18 Mar 2024 18:26:28,726 TRACE ro.mpp2024.repository.RepositoryDBDonator 55 findAll - Enter
+18 Mar 2024 18:26:28,726 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:26:28,726 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:26:28,727 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:26:28,727 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:26:28,727 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:26:28,844 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7d446ed1)
+18 Mar 2024 18:26:28,856 INFO  ro.mpp2024.repository.RepositoryDBDonatie 25 <init> - Initializing RepositoryDBDonatie
+18 Mar 2024 18:26:28,856 TRACE ro.mpp2024.repository.RepositoryDBDonatie 37 findAll - Enter
+18 Mar 2024 18:26:28,856 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:26:28,857 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:26:28,857 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:26:28,857 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:26:28,857 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:26:28,858 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@2796aeae)
+18 Mar 2024 18:26:28,858 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:26:28,858 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@2796aeae)
+18 Mar 2024 18:26:28,859 TRACE ro.mpp2024.repository.RepositoryDBDonatie 110 findCazCaritabil - Enter
+18 Mar 2024 18:26:28,859 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:26:28,859 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:26:28,859 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:26:28,860 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:26:28,860 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:26:28,860 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b4711e2)
+18 Mar 2024 18:26:46,461 INFO  ro.mpp2024.repository.RepositoryDBDonator 24 <init> - Initializing RepositoryDBDonator with properties: {jdbc.url=jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor} 
+18 Mar 2024 18:26:46,466 TRACE ro.mpp2024.repository.RepositoryDBDonator 55 findAll - Enter
+18 Mar 2024 18:26:46,466 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:26:46,467 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:26:46,467 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:26:46,468 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:26:46,468 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:26:46,604 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@12d2ce03)
+18 Mar 2024 18:26:46,639 INFO  ro.mpp2024.repository.RepositoryDBDonatie 25 <init> - Initializing RepositoryDBDonatie
+18 Mar 2024 18:26:50,050 TRACE ro.mpp2024.repository.RepositoryDBDonatie 37 findAll - Enter
+18 Mar 2024 18:26:52,321 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:26:52,321 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:26:52,322 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:26:52,322 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:26:52,323 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:26:52,324 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b4711e2)
+18 Mar 2024 18:27:06,758 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:27:06,759 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b4711e2)
+18 Mar 2024 18:27:08,037 TRACE ro.mpp2024.repository.RepositoryDBDonatie 110 findCazCaritabil - Enter
+18 Mar 2024 18:27:08,038 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:27:08,038 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:27:08,039 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:27:08,039 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:27:08,040 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:27:08,041 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1fa1cab1)
+18 Mar 2024 18:30:26,248 INFO  ro.mpp2024.repository.RepositoryDBDonator 24 <init> - Initializing RepositoryDBDonator with properties: {jdbc.url=jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor} 
+18 Mar 2024 18:30:26,257 TRACE ro.mpp2024.repository.RepositoryDBDonator 55 findAll - Enter
+18 Mar 2024 18:30:26,258 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:30:26,258 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:30:26,258 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:30:26,259 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:30:26,259 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:30:26,461 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@12d2ce03)
+18 Mar 2024 18:30:26,487 INFO  ro.mpp2024.repository.RepositoryDBDonatie 25 <init> - Initializing RepositoryDBDonatie
+18 Mar 2024 18:30:29,212 TRACE ro.mpp2024.repository.RepositoryDBDonatie 37 findAll - Enter
+18 Mar 2024 18:30:30,336 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:30:30,336 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:30:30,338 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:30:30,339 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:30:30,340 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:30:30,341 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b4711e2)
+18 Mar 2024 18:30:35,909 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:30:35,910 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b4711e2)
+18 Mar 2024 18:30:37,023 TRACE ro.mpp2024.repository.RepositoryDBDonatie 110 findCazCaritabil - Enter
+18 Mar 2024 18:30:37,023 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:30:37,025 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:30:37,025 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:30:37,026 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:30:37,026 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:30:37,028 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1fa1cab1)
+18 Mar 2024 18:32:18,637 INFO  ro.mpp2024.repository.RepositoryDBDonator 24 <init> - Initializing RepositoryDBDonator with properties: {jdbc.url=jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor} 
+18 Mar 2024 18:32:18,645 TRACE ro.mpp2024.repository.RepositoryDBDonator 55 findAll - Enter
+18 Mar 2024 18:32:18,645 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:32:18,646 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:32:18,646 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:32:18,647 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:32:18,647 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:32:18,847 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@12d2ce03)
+18 Mar 2024 18:32:18,875 INFO  ro.mpp2024.repository.RepositoryDBDonatie 25 <init> - Initializing RepositoryDBDonatie
+18 Mar 2024 18:32:20,845 TRACE ro.mpp2024.repository.RepositoryDBDonatie 37 findAll - Enter
+18 Mar 2024 18:32:21,279 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:32:21,280 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:32:21,281 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:32:21,282 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:32:21,282 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:32:21,284 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b4711e2)
+18 Mar 2024 18:32:24,752 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:32:24,753 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b4711e2)
+18 Mar 2024 18:32:25,053 TRACE ro.mpp2024.repository.RepositoryDBDonatie 115 findCazCaritabil - Enter
+18 Mar 2024 18:32:25,055 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:32:25,055 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:32:25,056 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:32:25,057 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:32:25,057 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:32:25,058 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1fa1cab1)
+18 Mar 2024 18:32:29,683 ERROR ro.mpp2024.repository.RepositoryDBDonatie 56 findAll - java.sql.SQLException: The prepared statement has been finalized
+18 Mar 2024 18:33:57,997 INFO  ro.mpp2024.repository.RepositoryDBDonator 24 <init> - Initializing RepositoryDBDonator with properties: {jdbc.url=jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor} 
+18 Mar 2024 18:33:58,004 TRACE ro.mpp2024.repository.RepositoryDBDonator 55 findAll - Enter
+18 Mar 2024 18:33:58,006 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:33:58,006 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:33:58,006 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:33:58,009 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:33:58,009 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:33:58,185 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7d446ed1)
+18 Mar 2024 18:33:58,201 INFO  ro.mpp2024.repository.RepositoryDBDonatie 25 <init> - Initializing RepositoryDBDonatie
+18 Mar 2024 18:33:58,201 TRACE ro.mpp2024.repository.RepositoryDBDonatie 37 findAll - Enter
+18 Mar 2024 18:33:58,202 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:33:58,202 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:33:58,202 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:33:58,203 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:33:58,203 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:33:58,204 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@2796aeae)
+18 Mar 2024 18:33:58,207 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:33:58,207 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@2796aeae)
+18 Mar 2024 18:33:58,209 TRACE ro.mpp2024.repository.RepositoryDBDonatie 114 findCazCaritabil - Enter
+18 Mar 2024 18:33:58,210 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:33:58,210 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:33:58,210 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:33:58,211 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:33:58,211 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:33:58,212 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b4711e2)
+18 Mar 2024 18:33:58,216 ERROR ro.mpp2024.repository.RepositoryDBDonatie 55 findAll - java.sql.SQLException: The prepared statement has been finalized
+18 Mar 2024 18:35:53,363 INFO  ro.mpp2024.repository.RepositoryDBDonator 24 <init> - Initializing RepositoryDBDonator with properties: {jdbc.url=jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor} 
+18 Mar 2024 18:35:53,371 TRACE ro.mpp2024.repository.RepositoryDBDonator 55 findAll - Enter
+18 Mar 2024 18:35:53,372 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:35:53,372 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:35:53,372 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:35:53,373 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:35:53,373 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:35:53,625 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7d446ed1)
+18 Mar 2024 18:35:53,653 INFO  ro.mpp2024.repository.RepositoryDBDonatie 25 <init> - Initializing RepositoryDBDonatie
+18 Mar 2024 18:35:53,654 TRACE ro.mpp2024.repository.RepositoryDBDonatie 37 findAll - Enter
+18 Mar 2024 18:35:53,654 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:35:53,655 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:35:53,656 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:35:53,656 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:35:53,657 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:35:53,658 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@2796aeae)
+18 Mar 2024 18:35:53,659 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:35:53,660 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@2796aeae)
+18 Mar 2024 18:35:53,661 TRACE ro.mpp2024.repository.RepositoryDBDonatie 114 findCazCaritabil - Enter
+18 Mar 2024 18:35:53,661 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:35:53,662 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:35:53,662 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:35:53,663 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:35:53,663 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:35:53,664 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b4711e2)
+18 Mar 2024 18:35:53,671 ERROR ro.mpp2024.repository.RepositoryDBDonatie 55 findAll - java.sql.SQLException: The prepared statement has been finalized
+18 Mar 2024 18:36:02,938 INFO  ro.mpp2024.repository.RepositoryDBDonator 24 <init> - Initializing RepositoryDBDonator with properties: {jdbc.url=jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor} 
+18 Mar 2024 18:36:02,946 TRACE ro.mpp2024.repository.RepositoryDBDonator 55 findAll - Enter
+18 Mar 2024 18:36:02,946 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:36:02,946 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:36:02,947 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:36:02,947 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:36:02,948 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:36:03,121 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@12d2ce03)
+18 Mar 2024 18:36:03,147 INFO  ro.mpp2024.repository.RepositoryDBDonatie 25 <init> - Initializing RepositoryDBDonatie
+18 Mar 2024 18:36:04,568 TRACE ro.mpp2024.repository.RepositoryDBDonatie 37 findAll - Enter
+18 Mar 2024 18:36:05,166 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:36:05,167 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:36:05,167 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:36:05,169 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:36:05,170 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:36:05,173 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b4711e2)
+18 Mar 2024 18:36:07,614 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:36:07,616 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b4711e2)
+18 Mar 2024 18:36:07,918 TRACE ro.mpp2024.repository.RepositoryDBDonatie 114 findCazCaritabil - Enter
+18 Mar 2024 18:36:07,920 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:36:07,920 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:36:07,921 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:36:07,922 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:36:07,924 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:36:07,927 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1fa1cab1)
+18 Mar 2024 18:36:27,330 INFO  ro.mpp2024.repository.RepositoryDBDonator 24 <init> - Initializing RepositoryDBDonator with properties: {jdbc.url=jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor} 
+18 Mar 2024 18:36:27,335 TRACE ro.mpp2024.repository.RepositoryDBDonator 55 findAll - Enter
+18 Mar 2024 18:36:27,336 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:36:27,336 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:36:27,336 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:36:27,338 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:36:27,339 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:36:27,498 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7d446ed1)
+18 Mar 2024 18:36:27,517 INFO  ro.mpp2024.repository.RepositoryDBDonatie 25 <init> - Initializing RepositoryDBDonatie
+18 Mar 2024 18:36:27,517 TRACE ro.mpp2024.repository.RepositoryDBDonatie 37 findAll - Enter
+18 Mar 2024 18:36:27,517 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:36:27,518 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:36:27,518 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:36:27,518 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:36:27,518 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:36:27,519 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@2796aeae)
+18 Mar 2024 18:36:27,520 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:36:27,520 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@2796aeae)
+18 Mar 2024 18:36:27,521 TRACE ro.mpp2024.repository.RepositoryDBDonatie 114 findCazCaritabil - Enter
+18 Mar 2024 18:36:27,521 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:36:27,521 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:36:27,521 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:36:27,521 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:36:27,521 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:36:27,523 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b4711e2)
+18 Mar 2024 18:36:27,528 ERROR ro.mpp2024.repository.RepositoryDBDonatie 55 findAll - java.sql.SQLException: The prepared statement has been finalized
+18 Mar 2024 18:41:15,679 INFO  ro.mpp2024.repository.RepositoryDBDonator 24 <init> - Initializing RepositoryDBDonator with properties: {jdbc.url=jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor} 
+18 Mar 2024 18:41:15,685 TRACE ro.mpp2024.repository.RepositoryDBDonator 55 findAll - Enter
+18 Mar 2024 18:41:15,685 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:41:15,686 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:41:15,686 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:41:15,686 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:41:15,686 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:41:15,891 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7d446ed1)
+18 Mar 2024 18:41:15,907 INFO  ro.mpp2024.repository.RepositoryDBDonatie 25 <init> - Initializing RepositoryDBDonatie
+18 Mar 2024 18:41:15,908 TRACE ro.mpp2024.repository.RepositoryDBDonatie 37 findAll - Enter
+18 Mar 2024 18:41:15,908 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:41:15,908 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:41:15,908 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:41:15,909 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:41:15,909 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:41:15,910 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@2796aeae)
+18 Mar 2024 18:41:15,910 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:41:15,911 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@2796aeae)
+18 Mar 2024 18:41:15,911 TRACE ro.mpp2024.repository.RepositoryDBDonatie 114 findCazCaritabil - Enter
+18 Mar 2024 18:41:15,911 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:41:15,912 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:41:15,912 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:41:15,912 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:41:15,912 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:41:15,913 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b4711e2)
+18 Mar 2024 18:41:15,917 ERROR ro.mpp2024.repository.RepositoryDBDonatie 55 findAll - java.sql.SQLException: The prepared statement has been finalized
+18 Mar 2024 18:43:39,323 INFO  ro.mpp2024.repository.RepositoryDBDonator 24 <init> - Initializing RepositoryDBDonator with properties: {jdbc.url=jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor} 
+18 Mar 2024 18:43:39,330 TRACE ro.mpp2024.repository.RepositoryDBDonator 55 findAll - Enter
+18 Mar 2024 18:43:39,330 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:43:39,330 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:43:39,331 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:43:39,331 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:43:39,331 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:43:39,558 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@12d2ce03)
+18 Mar 2024 18:43:39,591 INFO  ro.mpp2024.repository.RepositoryDBDonatie 25 <init> - Initializing RepositoryDBDonatie
+18 Mar 2024 18:43:41,181 TRACE ro.mpp2024.repository.RepositoryDBDonatie 37 findAll - Enter
+18 Mar 2024 18:43:41,802 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:43:41,802 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:43:41,804 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:43:41,806 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:43:41,807 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:43:41,809 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b4711e2)
+18 Mar 2024 18:43:43,470 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:43:43,471 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b4711e2)
+18 Mar 2024 18:43:43,748 TRACE ro.mpp2024.repository.RepositoryDBDonatie 115 findCazCaritabil - Enter
+18 Mar 2024 18:43:43,749 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:43:43,750 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:43:43,750 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:43:43,751 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:43:43,751 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:43:43,753 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1fa1cab1)
+18 Mar 2024 18:44:45,270 INFO  ro.mpp2024.repository.RepositoryDBDonator 24 <init> - Initializing RepositoryDBDonator with properties: {jdbc.url=jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor} 
+18 Mar 2024 18:44:45,293 TRACE ro.mpp2024.repository.RepositoryDBDonator 55 findAll - Enter
+18 Mar 2024 18:44:45,294 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:44:45,295 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:44:45,295 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:44:45,296 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:44:45,297 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:44:45,685 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@12d2ce03)
+18 Mar 2024 18:44:45,717 INFO  ro.mpp2024.repository.RepositoryDBDonatie 25 <init> - Initializing RepositoryDBDonatie
+18 Mar 2024 18:44:47,485 TRACE ro.mpp2024.repository.RepositoryDBDonatie 37 findAll - Enter
+18 Mar 2024 18:44:47,913 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:44:47,915 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:44:47,916 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:44:47,917 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:44:47,919 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:44:47,921 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b4711e2)
+18 Mar 2024 18:44:50,103 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:44:50,105 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b4711e2)
+18 Mar 2024 18:44:50,331 TRACE ro.mpp2024.repository.RepositoryDBDonatie 115 findCazCaritabil - Enter
+18 Mar 2024 18:44:50,333 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:44:50,334 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:44:50,336 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:44:50,337 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:44:50,339 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:44:50,344 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1fa1cab1)
+18 Mar 2024 18:45:01,749 ERROR ro.mpp2024.repository.RepositoryDBDonatie 56 findAll - java.sql.SQLException: The prepared statement has been finalized
+18 Mar 2024 18:46:09,027 INFO  ro.mpp2024.repository.RepositoryDBDonator 24 <init> - Initializing RepositoryDBDonator with properties: {jdbc.url=jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor} 
+18 Mar 2024 18:46:09,033 TRACE ro.mpp2024.repository.RepositoryDBDonator 55 findAll - Enter
+18 Mar 2024 18:46:09,033 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:46:09,033 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:46:09,033 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:46:09,034 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:46:09,034 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:46:09,206 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7d446ed1)
+18 Mar 2024 18:46:09,223 INFO  ro.mpp2024.repository.RepositoryDBDonatie 25 <init> - Initializing RepositoryDBDonatie
+18 Mar 2024 18:46:09,223 TRACE ro.mpp2024.repository.RepositoryDBDonatie 37 findAll - Enter
+18 Mar 2024 18:46:09,223 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:46:09,223 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:46:09,223 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:46:09,223 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:46:09,223 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:46:09,225 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@2796aeae)
+18 Mar 2024 18:46:09,226 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:46:09,226 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@2796aeae)
+18 Mar 2024 18:46:09,227 TRACE ro.mpp2024.repository.RepositoryDBDonatie 115 findCazCaritabil - Enter
+18 Mar 2024 18:46:09,227 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:46:09,228 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:46:09,228 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:46:09,228 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:46:09,228 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:46:09,229 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b4711e2)
+18 Mar 2024 18:46:09,232 ERROR ro.mpp2024.repository.RepositoryDBDonatie 56 findAll - java.sql.SQLException: The prepared statement has been finalized
+18 Mar 2024 18:48:28,622 INFO  ro.mpp2024.repository.RepositoryDBDonator 24 <init> - Initializing RepositoryDBDonator with properties: {jdbc.url=jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor} 
+18 Mar 2024 18:48:28,633 TRACE ro.mpp2024.repository.RepositoryDBDonator 55 findAll - Enter
+18 Mar 2024 18:48:28,634 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:48:28,634 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:48:28,634 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:48:28,635 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:48:28,635 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:48:28,899 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@12d2ce03)
+18 Mar 2024 18:48:28,932 INFO  ro.mpp2024.repository.RepositoryDBDonatie 25 <init> - Initializing RepositoryDBDonatie
+18 Mar 2024 18:48:30,697 TRACE ro.mpp2024.repository.RepositoryDBDonatie 37 findAll - Enter
+18 Mar 2024 18:48:31,923 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:48:31,924 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:48:31,926 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:48:31,928 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:48:31,929 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:48:31,932 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b4711e2)
+18 Mar 2024 18:48:35,600 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:48:35,601 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b4711e2)
+18 Mar 2024 18:48:36,056 TRACE ro.mpp2024.repository.RepositoryDBDonatie 116 findCazCaritabil - Enter
+18 Mar 2024 18:48:36,058 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:48:36,058 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:48:36,059 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:48:36,059 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:48:36,060 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:48:36,061 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1fa1cab1)
+18 Mar 2024 18:48:40,514 ERROR ro.mpp2024.repository.RepositoryDBDonatie 56 findAll - java.sql.SQLException: The prepared statement has been finalized
+18 Mar 2024 18:51:11,961 INFO  ro.mpp2024.repository.RepositoryDBDonator 24 <init> - Initializing RepositoryDBDonator with properties: {jdbc.url=jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor} 
+18 Mar 2024 18:51:11,974 TRACE ro.mpp2024.repository.RepositoryDBDonator 55 findAll - Enter
+18 Mar 2024 18:51:11,974 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:51:11,976 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:51:11,977 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:51:11,977 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:51:11,979 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:51:12,225 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7d446ed1)
+18 Mar 2024 18:51:12,248 INFO  ro.mpp2024.repository.RepositoryDBDonatie 25 <init> - Initializing RepositoryDBDonatie
+18 Mar 2024 18:51:12,249 TRACE ro.mpp2024.repository.RepositoryDBDonatie 37 findAll - Enter
+18 Mar 2024 18:51:12,249 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:51:12,249 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:51:12,249 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:51:12,250 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:51:12,250 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:51:12,254 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@2796aeae)
+18 Mar 2024 18:51:12,255 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:51:12,255 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@2796aeae)
+18 Mar 2024 18:51:12,256 TRACE ro.mpp2024.repository.RepositoryDBDonatie 115 findCazCaritabil - Enter
+18 Mar 2024 18:51:12,257 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:51:12,257 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:51:12,257 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:51:12,258 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:51:12,258 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:51:12,259 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b4711e2)
+18 Mar 2024 18:51:12,263 ERROR ro.mpp2024.repository.RepositoryDBDonatie 55 findAll - java.sql.SQLException: The prepared statement has been finalized
+18 Mar 2024 18:51:22,500 INFO  ro.mpp2024.repository.RepositoryDBDonator 24 <init> - Initializing RepositoryDBDonator with properties: {jdbc.url=jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor} 
+18 Mar 2024 18:51:22,511 TRACE ro.mpp2024.repository.RepositoryDBDonator 55 findAll - Enter
+18 Mar 2024 18:51:22,511 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:51:22,513 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:51:22,513 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:51:22,513 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:51:22,515 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:51:22,695 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@12d2ce03)
+18 Mar 2024 18:51:22,723 INFO  ro.mpp2024.repository.RepositoryDBDonatie 25 <init> - Initializing RepositoryDBDonatie
+18 Mar 2024 18:51:24,433 TRACE ro.mpp2024.repository.RepositoryDBDonatie 37 findAll - Enter
+18 Mar 2024 18:51:24,991 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:51:24,993 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:51:24,993 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:51:24,994 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:51:24,994 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:51:24,996 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b4711e2)
+18 Mar 2024 18:51:27,595 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:51:27,596 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b4711e2)
+18 Mar 2024 18:51:27,796 TRACE ro.mpp2024.repository.RepositoryDBDonatie 115 findCazCaritabil - Enter
+18 Mar 2024 18:51:27,797 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:51:27,798 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:51:27,798 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:51:27,799 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:51:27,799 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:51:27,801 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1fa1cab1)
+18 Mar 2024 18:52:16,219 INFO  ro.mpp2024.repository.RepositoryDBDonator 24 <init> - Initializing RepositoryDBDonator with properties: {jdbc.url=jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor} 
+18 Mar 2024 18:52:16,225 TRACE ro.mpp2024.repository.RepositoryDBDonator 55 findAll - Enter
+18 Mar 2024 18:52:16,225 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:52:16,225 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:52:16,226 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:52:16,226 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:52:16,226 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:52:16,410 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@12d2ce03)
+18 Mar 2024 18:52:16,435 INFO  ro.mpp2024.repository.RepositoryDBDonatie 25 <init> - Initializing RepositoryDBDonatie
+18 Mar 2024 18:52:17,779 TRACE ro.mpp2024.repository.RepositoryDBDonatie 37 findAll - Enter
+18 Mar 2024 18:52:18,218 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:52:18,219 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:52:18,219 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:52:18,220 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:52:18,220 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:52:18,222 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b4711e2)
+18 Mar 2024 18:52:38,529 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:52:38,531 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b4711e2)
+18 Mar 2024 18:52:39,390 TRACE ro.mpp2024.repository.RepositoryDBDonatie 115 findCazCaritabil - Enter
+18 Mar 2024 18:52:39,391 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:52:39,391 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:52:39,392 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:52:39,393 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:52:39,393 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:52:39,396 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1fa1cab1)
+18 Mar 2024 18:53:15,823 ERROR ro.mpp2024.repository.RepositoryDBDonatie 55 findAll - java.sql.SQLException: The prepared statement has been finalized
+18 Mar 2024 18:54:03,822 INFO  ro.mpp2024.repository.RepositoryDBDonator 24 <init> - Initializing RepositoryDBDonator with properties: {jdbc.url=jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor} 
+18 Mar 2024 18:54:03,828 TRACE ro.mpp2024.repository.RepositoryDBDonator 55 findAll - Enter
+18 Mar 2024 18:54:03,828 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:54:03,829 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:54:03,829 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:54:03,829 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:54:03,830 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:55:51,365 INFO  ro.mpp2024.repository.RepositoryDBDonator 24 <init> - Initializing RepositoryDBDonator with properties: {jdbc.url=jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor} 
+18 Mar 2024 18:55:51,374 TRACE ro.mpp2024.repository.RepositoryDBDonator 55 findAll - Enter
+18 Mar 2024 18:55:51,374 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:55:51,374 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:55:51,375 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:55:51,376 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:55:51,377 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:55:51,620 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@12d2ce03)
+18 Mar 2024 18:55:51,657 INFO  ro.mpp2024.repository.RepositoryDBDonatie 27 <init> - Initializing RepositoryDBDonatie
+18 Mar 2024 18:55:51,658 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+18 Mar 2024 18:55:51,659 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+18 Mar 2024 18:55:51,660 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+18 Mar 2024 18:55:51,660 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+18 Mar 2024 18:55:51,661 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+18 Mar 2024 18:55:51,663 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@b4711e2)
+18 Mar 2024 18:55:53,270 TRACE ro.mpp2024.repository.RepositoryDBDonatie 40 findAll - Enter
+18 Mar 2024 18:55:57,981 TRACE ro.mpp2024.repository.RepositoryDBDonatie 116 findCazCaritabil - Enter
+18 Mar 2024 18:56:02,816 TRACE ro.mpp2024.repository.RepositoryDBDonatie 116 findCazCaritabil - Enter
+19 Mar 2024 08:17:28,598 INFO  ro.mpp2024.repository.RepositoryDBDonator 24 <init> - Initializing RepositoryDBDonator with properties: {jdbc.url=jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor} 
+19 Mar 2024 08:17:28,598 TRACE ro.mpp2024.repository.RepositoryDBDonator 55 findAll - Enter
+19 Mar 2024 08:17:28,598 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+19 Mar 2024 08:17:28,598 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+19 Mar 2024 08:17:28,613 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+19 Mar 2024 08:17:28,613 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+19 Mar 2024 08:17:28,613 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+19 Mar 2024 08:17:28,899 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7d446ed1)
+19 Mar 2024 08:17:28,913 INFO  ro.mpp2024.repository.RepositoryDBDonatie 27 <init> - Initializing RepositoryDBDonatie
+19 Mar 2024 08:17:28,913 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+19 Mar 2024 08:17:28,913 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+19 Mar 2024 08:17:28,913 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+19 Mar 2024 08:17:28,913 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+19 Mar 2024 08:17:28,913 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+19 Mar 2024 08:17:28,929 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@2796aeae)
+19 Mar 2024 08:17:28,929 TRACE ro.mpp2024.repository.RepositoryDBDonatie 40 findAll - Enter
+19 Mar 2024 08:17:28,929 TRACE ro.mpp2024.repository.RepositoryDBDonatie 115 findCazCaritabil - Enter
+19 Mar 2024 08:17:28,933 TRACE ro.mpp2024.repository.RepositoryDBDonatie 115 findCazCaritabil - Enter
+19 Mar 2024 08:32:12,776 INFO  ro.mpp2024.repository.RepositoryDBDonator 24 <init> - Initializing RepositoryDBDonator with properties: {jdbc.url=jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor} 
+19 Mar 2024 08:32:12,785 TRACE ro.mpp2024.repository.RepositoryDBDonator 55 findAll - Enter
+19 Mar 2024 08:32:12,785 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+19 Mar 2024 08:32:12,786 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+19 Mar 2024 08:32:12,786 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+19 Mar 2024 08:32:12,787 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+19 Mar 2024 08:32:12,788 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+19 Mar 2024 08:32:13,057 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7d446ed1)
+19 Mar 2024 08:32:13,079 INFO  ro.mpp2024.repository.RepositoryDBDonatie 27 <init> - Initializing RepositoryDBDonatie
+19 Mar 2024 08:32:13,079 TRACE ro.mpp2024.domain.JdbcUtils 48 getConnection - Enter
+19 Mar 2024 08:32:13,079 TRACE ro.mpp2024.domain.JdbcUtils 25 getNewConnection - Enter
+19 Mar 2024 08:32:13,079 INFO  ro.mpp2024.domain.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Remus/databases/DonatieTelevizor
+19 Mar 2024 08:32:13,079 INFO  ro.mpp2024.domain.JdbcUtils 31 getNewConnection - user: null
+19 Mar 2024 08:32:13,079 INFO  ro.mpp2024.domain.JdbcUtils 32 getNewConnection - pass: null
+19 Mar 2024 08:32:13,082 TRACE ro.mpp2024.domain.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@2796aeae)
+19 Mar 2024 08:32:13,083 TRACE ro.mpp2024.repository.RepositoryDBDonatie 40 findAll - Enter
+19 Mar 2024 08:32:13,084 TRACE ro.mpp2024.repository.RepositoryDBDonatie 115 findCazCaritabil - Enter
+19 Mar 2024 08:32:13,087 TRACE ro.mpp2024.repository.RepositoryDBDonatie 115 findCazCaritabil - Enter

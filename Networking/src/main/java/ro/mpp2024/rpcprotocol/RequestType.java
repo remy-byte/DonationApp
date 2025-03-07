@@ -1,0 +1,5 @@
+package ro.mpp2024.rpcprotocol;
+
+public enum RequestType {
+    LOGIN, LOGOUT, GET_DONATORI, GET_ALL_CAZURI_CARITABILE, GET_DONATION_SUM, ADD_DONATION, UPDATE, ADD_DONATOR;
+}

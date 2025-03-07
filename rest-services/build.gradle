@@ -1,0 +1,40 @@
+plugins {
+    id 'java'
+    id 'org.springframework.boot' version '2.6.2'
+    id 'io.spring.dependency-management' version '1.0.11.RELEASE'
+    id 'application'
+}
+
+group = 'ro.mpp2024'
+version = 'unspecified'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation platform('org.junit:junit-bom:5.9.1')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+    implementation project(':Model')
+    implementation project(':Persistence')
+    implementation("org.springframework.boot:spring-boot-starter-web")
+    implementation("org.springframework.boot:spring-boot-starter-actuator")
+    implementation("org.springframework.boot:spring-boot-starter-data-jpa")
+    implementation group: 'org.apache.logging.log4j', name: 'log4j-core', version: '2.23.1'
+
+    implementation group: 'org.apache.logging.log4j', name: 'log4j-api', version: '2.23.1'
+    // https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-annotations
+    implementation group: 'com.fasterxml.jackson.core', name: 'jackson-annotations', version: '2.15.0'
+    // https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-core
+    implementation 'com.fasterxml.jackson.core:jackson-core:2.15.0'
+    implementation 'org.xerial:sqlite-jdbc:3.34.0'
+
+
+
+}
+test {
+    useJUnitPlatform()
+}
+application {
+    mainClassName = 'ro.mpp2024.MainREST'
+}
